@@ -20,6 +20,8 @@ I’m a passionate *Frontend Developer* who loves building intuitive and respons
 ![VS code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
+ 
 
 ## 🚀 Projects
 User Authentication(JS) : (https://user-authentication-task-1e8c5.web.app)
