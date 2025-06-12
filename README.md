@@ -24,7 +24,7 @@ I’m a passionate *Frontend Developer* who loves building intuitive and respons
  
 
 ## 🚀 Projects
-User Authentication(JS) : (https://user-authentication-task-1e8c5.web.app)
+Quick Reciept : (https://quick-receipt-pos.web.app/)
 
 ## 📫 Connect with Me
 
