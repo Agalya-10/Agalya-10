@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Agalya Muruganantham
 
-I’m a passionate *Frontend Developer* who loves building intuitive and responsive web applications. I enjoy coding, learning new technologies.
-
+Frontend Developer with 1+ year of experience building responsive and interactive web applications using React.js, Redux, and Firebase. Known for delivering clean, efficient code and transforming complex UI/UX designs into seamless user interfaces. Experienced in optimizing performance through lazy loading and managing application state effectively. Collaborative team member with a strong focus on delivering scalable, business-driven solutions in Agile environments.
+i want short important method  add angular c#
 
 
 ## 👨‍💻 About Me
