@@ -6,7 +6,7 @@ i want short important method  add angular c#
 
 ## 👨‍💻 About Me
 - 🎓 Education: Bachelor of Science (BSc) in ComputerScience.
-- 💼 Currently working as Frontend Developer at Ebrain Technology.
+- 💼 Currently working as Fullstack Developer at Icodex Publishing solutions ltd.
 - 🌱 I’m currently working on Quick Reciept Project .
 
 
